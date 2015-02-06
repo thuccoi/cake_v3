@@ -1,0 +1,1 @@
+<div class="n_error"><p><?php echo $message ?></p></div>
